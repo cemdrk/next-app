@@ -2,7 +2,7 @@
 
 const Home = () => {
   return (
-    <main className="container mx-auto flex flex-col  items-center">
+    <main className="container mx-auto flex flex-col items-center">
       <h1>hello</h1>
     </main>
   );
